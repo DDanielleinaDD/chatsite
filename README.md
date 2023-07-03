@@ -1,8 +1,10 @@
 # chatsite
 ## test for online video chat
 
-Используйте redis на порту 6379. 
-для этого установить docker
+Используйте redis на порту 6379.
+
+Для этого установить docker
+
 В консоли выполнить команды:
 `docker run -p 6379:6379 -d redis:5`
 
